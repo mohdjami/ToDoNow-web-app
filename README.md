@@ -8,8 +8,7 @@ This project was made basically to study how to make a full web aplication, from
 
 # 👾 To test the front-end off the project
 
-https://web-app-todo-sh.vercel.app/
-
+https://to-do-web-app-seven.vercel.app/
 ### 🧠 Idea
 
 The idea off the project, is a simple an fast todo list focused on the "Projects" to be done, setting a time to end a project, and finishing then on the time estimated, with two variations of project type "Todo (The common list)" and "Kanban (A Kanban style project management style)".
